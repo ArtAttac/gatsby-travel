@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel-1.jpg",
+    "alt": "Glorious Uzbek Hotel",
+    "name": "Glorious Uzbek Hotel",
+    "button": "View Dump"
+  },
+  {
+    "img": "../assets/images/travel-2.jpg",
+    "alt": "Beautiful Spacecious Warehouse",
+    "name": "Beautiful Spacecious Warehouse",
+    "button": "View Dump"
+  },
+  {
+    "img": "../assets/images/travel-3.jpg",
+    "alt": "Red Light District",
+    "name": "Red Light District",
+    "button": "View Dump"
+  },
+  {
+    "img": "../assets/images/travel-4.jpg",
+    "alt": "Private Romantic Suites",
+    "name": "Private Romantic Suites",
+    "button": "View Dump"
+  }
+]
